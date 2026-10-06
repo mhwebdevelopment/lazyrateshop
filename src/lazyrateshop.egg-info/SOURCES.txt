@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/lazyrate/__init__.py
+src/lazyrate/core.py
+src/lazyrateshop.egg-info/PKG-INFO
+src/lazyrateshop.egg-info/SOURCES.txt
+src/lazyrateshop.egg-info/dependency_links.txt
+src/lazyrateshop.egg-info/requires.txt
+src/lazyrateshop.egg-info/top_level.txt
+tests/test_core.py
