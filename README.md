@@ -1,5 +1,7 @@
 # lazyrate
 
+- Work in progress, needing more thorough tests & some more TLC
+
 Async fan-out / lazy-load orchestration for aggregating results from
 multiple independent, slow, or unreliable backends -- without letting the
 slowest one block everything else.
